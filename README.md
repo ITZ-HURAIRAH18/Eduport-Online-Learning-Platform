@@ -17,5 +17,6 @@
 ## 🚀 Live Demo
 
 🔗 [Visit Eduport Website](https://eduporteducation.netlify.app) 
+🔗 [Visit Eduport Website using github Pages:](https://itz-hurairah18.github.io/Eduport-Online-Learning-Platform/) 
 
 
